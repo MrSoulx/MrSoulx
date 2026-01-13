@@ -1,11 +1,14 @@
 # ¡Hola!👋
 
 ### 🚀 Sobre mí
-Soy un **Desarrollador Backend** apasionado por construir aplicaciones escalables y eficientes. Mi enfoque principal está en el ecosistema de JavaScript/TypeScript y Java, aunque siempre estoy explorando nuevas tecnologías.
+Backend developer enfocado en la construcción de servicios escalables y APIs robustas. Mi stack principal se centra en el ecosistema de **Java** y **Node.js**, utilizando **TypeScript** para garantizar la calidad y mantenibilidad del código. Complemento mi perfil con nociones de **React** y **Python**.
 
-- 🏗️ Actualmente trabajando en proyectos con **React** y **Node.js**.
-- ⚙️ Especializado en arquitectura **Backend** y desarrollo de interfaces modernas **Frontend**.
-- 🐍 También tengo conocimientos básicos en **Python** para scripts y automatización.
+---
+
+### 🛠️ Core Stack
+* **Lenguajes:** Java, TypeScript, JavaScript.
+* **Entornos/Frameworks:** Node.js, Spring Boot.
+* **Herramientas adicionales:** Python, React.
 
 ---
 
