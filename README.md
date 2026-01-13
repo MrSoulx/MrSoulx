@@ -2,16 +2,7 @@
 
 ### 🚀 Sobre mí
 Backend developer enfocado en la construcción de servicios escalables y APIs robustas. Mi stack principal se centra en el ecosistema de **Java** y **Node.js**, utilizando **TypeScript** para garantizar la calidad y mantenibilidad del código. Complemento mi perfil con nociones de **React** y **Python**.
-
 ---
-
-### 🛠️ Core Stack
-* **Lenguajes:** Java, TypeScript, JavaScript.
-* **Entornos/Frameworks:** Node.js, Spring Boot.
-* **Herramientas adicionales:** Python, React.
-
----
-
 ### 🛠️ Tecnologías y Herramientas
 
 #### **Core Backend**
@@ -23,7 +14,6 @@ Backend developer enfocado en la construcción de servicios escalables y APIs ro
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,js,python,linux" />
 </p>
-
 
 ### 📫 Contacto
 - 💼 LinkedIn: [Walter Gomez](www.linkedin.com/in/walter-gomez-999a133a5)
