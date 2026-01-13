@@ -1,8 +1,8 @@
 # ¡Hola!👋
 
 ### 🚀 Sobre mí
-
-- Backend developer enfocado en la construcción de servicios escalables y APIs robustas. Mi stack principal se centra en el ecosistema de **Java** y **Node.js**, utilizando **TypeScript** para garantizar la calidad y mantenibilidad del código. Complemento mi perfil con nociones de **React** y **Python**.
+    
+    Backend developer enfocado en la construcción de servicios escalables y APIs robustas. Mi stack principal se centra en el ecosistema de **Java** y **Node.js**, utilizando **TypeScript** para garantizar la calidad y mantenibilidad del código. Complemento mi perfil con nociones de **React** y **Python**.
 ---
 ### 🛠️ Tecnologías y Herramientas
 
