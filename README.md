@@ -1,5 +1,4 @@
-## Hi there 👋
-# ¡Hola! Soy [Tu Nombre/Usuario] 👋
+# ¡Hola!👋
 
 ### 🚀 Sobre mí
 Soy un **Desarrollador Backend** apasionado por construir aplicaciones escalables y eficientes. Mi enfoque principal está en el ecosistema de JavaScript/TypeScript y Java, aunque siempre estoy explorando nuevas tecnologías.
