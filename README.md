@@ -17,6 +17,8 @@ Backend Developer focused on building scalable services and robust APIs. My core
   <img src="https://skillicons.dev/icons?i=react,js,python,linux" />
 </p>
 
+---
+
 ### 📫 Connect with me
 - 💼 LinkedIn: [Walter Gomez](www.linkedin.com/in/walter-gomez-999a133a5)
 - 📧 Email: [wallegomz10@gmail.com]
