@@ -2,7 +2,7 @@
 # ¡Hola! Soy [Tu Nombre/Usuario] 👋
 
 ### 🚀 Sobre mí
-Soy un **Desarrollador Full Stack** apasionado por construir aplicaciones escalables y eficientes. Mi enfoque principal está en el ecosistema de JavaScript/TypeScript y Java, aunque siempre estoy explorando nuevas tecnologías.
+Soy un **Desarrollador Backend** apasionado por construir aplicaciones escalables y eficientes. Mi enfoque principal está en el ecosistema de JavaScript/TypeScript y Java, aunque siempre estoy explorando nuevas tecnologías.
 
 - 🏗️ Actualmente trabajando en proyectos con **React** y **Node.js**.
 - ⚙️ Especializado en arquitectura **Backend** y desarrollo de interfaces modernas (**Frontend**).
@@ -25,12 +25,6 @@ Soy un **Desarrollador Full Stack** apasionado por construir aplicaciones escala
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-### 📊 Mis Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=radical)
-
----
 
 ### 📫 Contacto
 - 💼 LinkedIn: [tu-perfil](https://linkedin.com/in/tu-usuario)
