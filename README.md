@@ -21,7 +21,7 @@ Backend developer enfocado en la construcción de servicios escalables y APIs ro
 
 #### **Frontend & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,python,linux,git" />
+  <img src="https://skillicons.dev/icons?i=react,js,python,linux" />
 </p>
 
 
