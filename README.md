@@ -5,9 +5,8 @@
 Soy un **Desarrollador Backend** apasionado por construir aplicaciones escalables y eficientes. Mi enfoque principal está en el ecosistema de JavaScript/TypeScript y Java, aunque siempre estoy explorando nuevas tecnologías.
 
 - 🏗️ Actualmente trabajando en proyectos con **React** y **Node.js**.
-- ⚙️ Especializado en arquitectura **Backend** y desarrollo de interfaces modernas (**Frontend**).
+- ⚙️ Especializado en arquitectura **Backend** y desarrollo de interfaces modernas **Frontend**.
 - 🐍 También tengo conocimientos básicos en **Python** para scripts y automatización.
-- 💬 Pregúntame sobre: **Java, Spring Boot, React, Node y Arquitectura de Software**.
 
 ---
 
@@ -27,8 +26,8 @@ Soy un **Desarrollador Backend** apasionado por construir aplicaciones escalable
 
 
 ### 📫 Contacto
-- 💼 LinkedIn: [tu-perfil](https://linkedin.com/in/tu-usuario)
-- 📧 Email: [tu-correo@ejemplo.com]
+- 💼 LinkedIn: [Walter Gomez](www.linkedin.com/in/walter-gomez-999a133a5)
+- 📧 Email: [wallegomz10@gmail.com]
 
 ---
 *“El código es como el humor. Cuando tienes que explicarlo, es malo.”*
